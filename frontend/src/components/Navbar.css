@@ -1,0 +1,18 @@
+.navbar {
+  background-color: #ff4d4f;
+  color: #fff;
+  padding: 15px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.logo {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.user-greeting {
+  font-size: 18px;
+}
