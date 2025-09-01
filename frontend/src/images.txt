@@ -1,0 +1,1 @@
+create this as folder in src folder and pics are in grp and pics should be saved with exact names
