@@ -1,0 +1,24 @@
+.orders-container {
+  width: 90%;
+  max-width: 900px;
+  margin: 30px auto;
+}
+
+.past-orders-card {
+  background-color: #fff;
+  border-radius: 15px;
+  padding: 15px 20px;
+  margin-bottom: 15px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.past-orders-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.12);
+}
+
+.past-orders-card strong {
+  font-size: 18px;
+  color: #ff4d4f;
+}
